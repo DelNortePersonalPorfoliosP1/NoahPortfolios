@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C6EF1EBC233287B400350700 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = C6EF1EBB233287B400350700 /* main.c */; };
+		6DFF6C902332F15E00761211 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 6DFF6C8F2332F15E00761211 /* main.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +23,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6DFF6C8F2332F15E00761211 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		C6EF1EB1233287A400350700 /* NoahLab */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = NoahLab; sourceTree = BUILT_PRODUCTS_DIR; };
-		C6EF1EBB233287B400350700 /* main.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = main.c; path = "../../../../../Desktop/pythagoros lab/pythagoros lab/main.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		C6EF1EB3233287A400350700 /* NoahLab */ = {
 			isa = PBXGroup;
 			children = (
-				C6EF1EBB233287B400350700 /* main.c */,
+				6DFF6C8F2332F15E00761211 /* main.c */,
 			);
 			path = NoahLab;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C6EF1EBC233287B400350700 /* main.c in Sources */,
+				6DFF6C902332F15E00761211 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
